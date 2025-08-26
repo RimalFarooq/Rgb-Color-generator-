@@ -1,0 +1,54 @@
+body{
+    background: #edeaff;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.romanesco-regular {
+    font-size: 7vmax;
+    font-family: "Romanesco", cursive;
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+
+.colorContainer{
+ height: 10vmax;
+ width: 10vmax;
+ border: 2px solid #fff;
+ background-color: #fff;
+ box-shadow:  0.3vmax 0.4vmax 0.5vmax   rgba(0,0,0,0.7);
+}
+
+.colorText{
+    font-size: 1.5vmax;
+}
+
+.copyButton{
+    margin-top: 2vmax;
+    background-color: green;
+    color: #fff;
+    font-size: 1.5vmax;
+    border: 0.2vmax solid rgb(130, 245, 29);
+    border-radius: 0.6vmax;
+}
+.copyButton:hover{
+    background-color: rgb(11, 210, 11);
+    border: 0.2vam solid black;
+    cursor: pointer;
+}
+.GenColorButton{
+    background-color: rgb(145, 2, 2);
+    color: #fff;
+    font-size: 1.5vmax;
+    border: 0.2vmax solid rgb(241, 106, 106);
+    border-radius: 0.6vmax;
+}
+.GenColorButton:hover{
+    background-color: rgb(240, 76, 26);
+    border: 0.2vmax solid rgb(255, 65, 65);
+    cursor: pointer;
+}
