@@ -1,3 +1,3 @@
 # Rgb-Color-generator
-<h1>Java-Script Mini project</h1>
+<p>Java-Script Mini project <br> here is the Link</p>
 <a href="https://www-rgb-color-generator.netlify.app/">Rgb Color Generator</a>
